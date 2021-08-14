@@ -4,3 +4,19 @@
 .nav-link{
     color:#272121;
 }
+
+.navbar{
+    border-top:1px solid #e1e1e1;
+    border-bottom:1px solid #e1e1e1;
+}
+
+.imagen-bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen-principal{
+    background-image: url(../img/kitchen-2165756_1920.jpg);
+    height: 35rem;
+}
