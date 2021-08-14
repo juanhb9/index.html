@@ -20,3 +20,12 @@
     background-image: url(../img/kitchen-2165756_1920.jpg);
     height: 35rem;
 }
+
+.categorias h2{
+    color:#f7be16;
+    font-size: 2.5rem;
+}
+.categorias a{
+    color:#272121;
+    text-decoration: none;
+}
